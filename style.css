@@ -43,11 +43,6 @@ align-items:center;
 position:relative;
 
 }
-.goit-logo{
-position:absolute;
-left:0;
-top:32px;
-}
 
 .text-container{
 border-radius:60px;
